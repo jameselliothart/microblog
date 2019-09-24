@@ -6,3 +6,4 @@ This is a small web blogging application built using the Python web microframewo
 * Templating - Jinja2
 * Database - SQLite
 * ORM - SQLAlchemy
+* Testing - pytest
